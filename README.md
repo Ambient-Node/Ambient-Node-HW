@@ -1,7 +1,5 @@
-# Ambient-Node-HW
-XIAO RP2040으로 스테퍼 및 BLDC 모터 제어
 
-# fan and axis control (XIAO RP2040)
+# Ambient-Node-HW - Fan and Axis control
 
 Seeeduino XIAO RP2040을 사용해 BLDC모터 와 스텝모터 2개를 이용해 얼굴 추적, 자동 회전, 자연풍, 수동 조작 기능을 구현한 Ambient node 하위 HW프로젝트
 
