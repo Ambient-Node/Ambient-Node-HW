@@ -3,6 +3,8 @@
 
 Seeeduino XIAO RP2040을 사용해 BLDC모터 와 스텝모터 2개를 이용해 얼굴 추적, 자동 회전, 자연풍, 수동 조작 기능을 구현한 Ambient node 하위 HW프로젝트
 
+한림대학교 25년도 2학기 SW캡스톤디자인
+
 ## 하드웨어 구성
 
 - MCU: seeduino XIAO RP2040
