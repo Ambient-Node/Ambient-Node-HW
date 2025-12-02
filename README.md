@@ -20,6 +20,13 @@ Seeeduino XIAO RP2040을 사용해 BLDC모터 와 스텝모터 2개를 이용해
 
 ---
 
+<p align="center">
+  <a href="https://youtu.be/Y34z0qJ4gto">
+    <img src="https://img.youtube.com/vi/Y34z0qJ4gto/hqdefault.jpg" width="600" />
+  </a>
+</p>
+<p align="center">프로젝트 데모 영상</p>
+
 
 ## 하드웨어 구성
 
