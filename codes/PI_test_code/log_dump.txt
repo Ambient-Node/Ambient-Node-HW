@@ -1,0 +1,1039 @@
+ambient-fan-service  | [UART] ⬅️ Time,Target,Current
+ambient-fan-service  | [MQTT] 📥 ambient/command/mode: {'event_type': 'mode_change', 'type': 'motor', 'mode': 'ai_tracking', 'user_id': 'user_1764174836900', 'timestamp': '2025-11-28T03:32:18.669343'}
+ambient-fan-service  | [FAN] 🔄 Movement Change: manual_control -> ai_tracking
+ambient-fan-service  | [UART] ➡️ R 0
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1009, 'y': 308, 'timestamp': '2025-11-27T18:32:19.340762'}
+ambient-fan-service  | [UART] ⬅️ 884507,-379,-397
+ambient-fan-service  | [UART] ➡️ P (1009,308)
+ambient-fan-service  | [UART] ⬅️ 884517,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884527,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884537,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884547,-379,-394
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:19.341318'}
+ambient-fan-service  | [UART] ⬅️ 884557,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884567,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884577,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884587,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884597,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884607,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884617,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884627,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884637,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884647,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884657,-379,-394
+ambient-fan-service  | [UART] ⬅️ 884667,-379,-394
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1008, 'y': 348, 'timestamp': '2025-11-27T18:32:19.503948'}
+ambient-fan-service  | [UART] ➡️ P (1008,348)
+ambient-fan-service  | [UART] ⬅️ 884677,-375,-391
+ambient-fan-service  | [UART] ⬅️ 884687,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884697,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884707,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884717,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884727,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884737,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884747,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884757,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884767,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884777,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884787,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884797,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884807,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884817,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884827,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884837,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884847,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884857,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884867,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884877,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884887,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884897,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884907,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884917,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884927,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884937,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884947,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884957,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884967,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884977,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884987,-375,-390
+ambient-fan-service  | [UART] ⬅️ 884997,-375,-390
+ambient-fan-service  | [UART] ⬅️ 885007,-375,-390
+ambient-fan-service  | [UART] ⬅️ 885017,-375,-390
+ambient-fan-service  | [UART] ⬅️ 885027,-375,-390
+ambient-fan-service  | [UART] ⬅️ 885037,-375,-390
+ambient-fan-service  | [UART] ⬅️ 885047,-375,-390
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1024, 'y': 732, 'timestamp': '2025-11-27T18:32:19.880075'}
+ambient-fan-service  | [UART] ⬅️ 885057,-365,-387
+ambient-fan-service  | [UART] ➡️ P (1024,732)
+ambient-fan-service  | [UART] ⬅️ 885067,-365,-383
+ambient-fan-service  | [UART] ⬅️ 885077,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885087,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885097,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885107,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885117,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885127,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885137,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885147,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885157,-365,-380
+ambient-fan-service  | [UART] ⬅️ 885167,-365,-380
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1042, 'y': 732, 'timestamp': '2025-11-27T18:32:20.010724'}
+ambient-fan-service  | [UART] ⬅️ 885177,-365,-380
+ambient-fan-service  | [UART] ➡️ P (1042,732)
+ambient-fan-service  | [UART] ⬅️ 885187,-348,-376
+ambient-fan-service  | [UART] ⬅️ 885197,-348,-371
+ambient-fan-service  | [UART] ⬅️ 885207,-348,-367
+ambient-fan-service  | [UART] ⬅️ 885217,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885227,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885237,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885247,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885257,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885267,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885277,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885287,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885297,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885307,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885317,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885327,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885337,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885347,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885357,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885367,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885377,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885387,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885397,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885407,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885417,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885427,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885437,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885447,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885457,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885467,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885477,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885487,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885497,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885507,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885517,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885527,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885537,-348,-363
+ambient-fan-service  | [UART] ⬅️ 885547,-348,-363
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1043, 'y': 366, 'timestamp': '2025-11-27T18:32:20.389605'}
+ambient-fan-service  | [UART] ⬅️ 885557,-330,-362
+ambient-fan-service  | [UART] ➡️ P (1043,366)
+ambient-fan-service  | [UART] ⬅️ 885567,-330,-358
+ambient-fan-service  | [UART] ⬅️ 885577,-330,-353
+ambient-fan-service  | [UART] ⬅️ 885587,-330,-349
+ambient-fan-service  | [UART] ⬅️ 885597,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885607,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885617,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885627,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885637,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885647,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885657,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885667,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885677,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885687,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885697,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885707,-330,-345
+ambient-fan-service  | [UART] ⬅️ 885717,-330,-345
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1014, 'y': 439, 'timestamp': '2025-11-27T18:32:20.557461'}
+ambient-fan-service  | [UART] ⬅️ 885727,-324,-343
+ambient-fan-service  | [UART] ➡️ P (1014,439)
+ambient-fan-service  | [UART] ⬅️ 885737,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885747,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885757,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885767,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885777,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885787,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885797,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885807,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885817,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885827,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885837,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885847,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885857,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885867,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885877,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885887,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885897,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885907,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885917,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885927,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885937,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885947,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885957,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885967,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885977,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885987,-324,-339
+ambient-fan-service  | [UART] ⬅️ 885997,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886007,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886017,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886027,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886037,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886047,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886057,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886067,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886077,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886087,-324,-339
+ambient-fan-service  | [UART] ⬅️ 886097,-324,-339
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1002, 'y': 615, 'timestamp': '2025-11-27T18:32:20.935020'}
+ambient-fan-service  | [UART] ➡️ P (1002,615)
+ambient-fan-service  | [UART] ⬅️ 886107,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886117,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886127,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886137,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886147,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886157,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886167,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886177,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886187,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886197,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886207,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886217,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886227,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886237,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886247,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886257,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886267,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886277,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886287,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886297,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886307,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886317,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886327,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886337,-323,-338
+ambient-fan-service  | [UART] ⬅️ 886347,-323,-338
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 975, 'y': 611, 'timestamp': '2025-11-27T18:32:21.188021'}
+ambient-fan-service  | [UART] ⬅️ 886357,-332,-338
+ambient-fan-service  | [UART] ➡️ P (975,611)
+ambient-fan-service  | [UART] ⬅️ 886367,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886377,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886387,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886397,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886407,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886417,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886427,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886437,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886447,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886457,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886467,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886477,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886487,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886497,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886507,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886517,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886527,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886537,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886547,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886557,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886567,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886577,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886587,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886597,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886607,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886617,-332,-338
+ambient-fan-service  | [UART] ⬅️ 886627,-332,-338
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 966, 'y': 565, 'timestamp': '2025-11-27T18:32:21.464099'}
+ambient-fan-service  | [UART] ➡️ P (966,565)
+ambient-fan-service  | [UART] ⬅️ 886637,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886647,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886657,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886667,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886677,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886687,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886697,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886707,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886717,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886727,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886737,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886747,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886757,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886767,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886777,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886787,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886797,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886807,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886817,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886827,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886837,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886847,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886857,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886867,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886877,-336,-338
+ambient-fan-service  | [UART] ⬅️ 886887,-336,-338
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 954, 'y': 564, 'timestamp': '2025-11-27T18:32:21.723199'}
+ambient-fan-service  | [UART] ➡️ P (954,564)
+ambient-fan-service  | [UART] ⬅️ 886897,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886907,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886917,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886927,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886937,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886947,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886957,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886967,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886977,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886987,-340,-338
+ambient-fan-service  | [UART] ⬅️ 886997,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887007,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887017,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887027,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887037,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887047,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887057,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887067,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887077,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887087,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887097,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887107,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887117,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887127,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887137,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887147,-340,-338
+ambient-fan-service  | [UART] ⬅️ 887157,-340,-338
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 932, 'y': 550, 'timestamp': '2025-11-27T18:32:22.000112'}
+ambient-fan-service  | [UART] ⬅️ 887167,-349,-338
+ambient-fan-service  | [UART] ➡️ P (932,550)
+ambient-fan-service  | [UART] ⬅️ 887177,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887187,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887197,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887207,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887217,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887227,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887237,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887247,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887257,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887267,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887277,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887287,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887297,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887307,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887317,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887327,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887337,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887347,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887357,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887367,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887377,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887387,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887397,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887407,-349,-338
+ambient-fan-service  | [UART] ⬅️ 887417,-349,-338
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 917, 'y': 538, 'timestamp': '2025-11-27T18:32:22.257989'}
+ambient-fan-service  | [UART] ➡️ P (917,538)
+ambient-fan-service  | [UART] ⬅️ 887427,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887437,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887447,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887457,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887467,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887477,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887487,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887497,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887507,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887517,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887527,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887537,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887547,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887557,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887567,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887577,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887587,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887597,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887607,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887617,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887627,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887637,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887647,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887657,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887667,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887677,-355,-340
+ambient-fan-service  | [UART] ⬅️ 887687,-355,-340
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 903, 'y': 533, 'timestamp': '2025-11-27T18:32:22.530224'}
+ambient-fan-service  | [UART] ➡️ P (903,533)[UART] ⬅️ 887697,-362,-341
+ambient-fan-service  | 
+ambient-fan-service  | [UART] ⬅️ 887707,-362,-345
+ambient-fan-service  | [UART] ⬅️ 887717,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887727,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887737,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887747,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887757,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887767,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887777,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887787,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887797,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887807,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887817,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887827,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887837,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887847,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887857,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887867,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887877,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887887,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887897,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887907,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887917,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887927,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887937,-362,-347
+ambient-fan-service  | [UART] ⬅️ 887947,-362,-347
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 877, 'y': 524, 'timestamp': '2025-11-27T18:32:22.789695'}
+ambient-fan-service  | [UART] ➡️ P (877,524)
+ambient-fan-service  | [UART] ⬅️ 887957,-380,-348
+ambient-fan-service  | [UART] ⬅️ 887967,-380,-352
+ambient-fan-service  | [UART] ⬅️ 887977,-380,-356
+ambient-fan-service  | [UART] ⬅️ 887987,-380,-361
+ambient-fan-service  | [UART] ⬅️ 887997,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888007,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888017,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888027,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888037,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888047,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888057,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888067,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888077,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888087,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888097,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888107,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888117,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888127,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888137,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888147,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888157,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888167,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888177,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888187,-380,-365
+ambient-fan-service  | [UART] ⬅️ 888197,-380,-365
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 889, 'y': 511, 'timestamp': '2025-11-27T18:32:23.038332'}
+ambient-fan-service  | [UART] ➡️ P (889,511)
+ambient-fan-service  | [UART] ⬅️ 888207,-393,-366
+ambient-fan-service  | [UART] ⬅️ 888217,-393,-370
+ambient-fan-service  | [UART] ⬅️ 888227,-393,-375
+ambient-fan-service  | [UART] ⬅️ 888237,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888247,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888257,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888267,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888277,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888287,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888297,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888307,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888317,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888327,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888337,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888347,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888357,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888367,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888377,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888387,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888397,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888407,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888417,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888427,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888437,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888447,-393,-378
+ambient-fan-service  | [UART] ⬅️ 888457,-393,-378
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 894, 'y': 514, 'timestamp': '2025-11-27T18:32:23.292255'}
+ambient-fan-service  | [UART] ➡️ P (894,514)
+ambient-fan-service  | [UART] ⬅️ 888467,-404,-382
+ambient-fan-service  | [UART] ⬅️ 888477,-404,-386
+ambient-fan-service  | [UART] ⬅️ 888487,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888497,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888507,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888517,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888527,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888537,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888547,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888557,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888567,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888577,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888587,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888597,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888607,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888617,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888627,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888637,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888647,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888657,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888667,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888677,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888687,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888697,-404,-389
+ambient-fan-service  | [UART] ⬅️ 888707,-404,-389
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 911, 'y': 526, 'timestamp': '2025-11-27T18:32:23.549353'}
+ambient-fan-service  | [UART] ⬅️ 888717,-408,-390
+ambient-fan-service  | [UART] ➡️ P (911,526)
+ambient-fan-service  | [UART] ⬅️ 888727,-408,-393
+ambient-fan-service  | [UART] ⬅️ 888737,-408,-393
+ambient-fan-service  | [UART] ⬅️ 888747,-408,-393
+ambient-fan-service  | [UART] ⬅️ 888757,-408,-393
+ambient-fan-service  | [UART] ⬅️ 888767,-408,-393
+ambient-fan-service  | [UART] ⬅️ 888777,-408,-393
+ambient-fan-service  | [UART] ⬅️ Graph Mode OFF
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 918, 'y': 526, 'timestamp': '2025-11-27T18:32:23.821088'}
+ambient-fan-service  | [UART] ➡️ P (918,526)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 928, 'y': 544, 'timestamp': '2025-11-27T18:32:24.087678'}
+ambient-fan-service  | [UART] ➡️ P (928,544)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 937, 'y': 569, 'timestamp': '2025-11-27T18:32:24.360569'}
+ambient-fan-service  | [UART] ➡️ P (937,569)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 937, 'y': 574, 'timestamp': '2025-11-27T18:32:24.636578'}
+ambient-fan-service  | [UART] ➡️ P (937,574)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 929, 'y': 571, 'timestamp': '2025-11-27T18:32:25.040640'}
+ambient-fan-service  | [UART] ➡️ P (929,571)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 921, 'y': 573, 'timestamp': '2025-11-27T18:32:25.189351'}
+ambient-fan-service  | [UART] ➡️ P (921,573)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 914, 'y': 570, 'timestamp': '2025-11-27T18:32:25.550956'}
+ambient-fan-service  | [UART] ➡️ P (914,570)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 913, 'y': 571, 'timestamp': '2025-11-27T18:32:25.705894'}
+ambient-fan-service  | [UART] ➡️ P (913,571)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 907, 'y': 575, 'timestamp': '2025-11-27T18:32:26.086256'}
+ambient-fan-service  | [UART] ➡️ P (907,575)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 911, 'y': 571, 'timestamp': '2025-11-27T18:32:26.359022'}
+ambient-fan-service  | [UART] ➡️ P (911,571)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 919, 'y': 573, 'timestamp': '2025-11-27T18:32:26.623006'}
+ambient-fan-service  | [UART] ➡️ P (919,573)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 912, 'y': 571, 'timestamp': '2025-11-27T18:32:26.908278'}
+ambient-fan-service  | [UART] ➡️ P (912,571)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 910, 'y': 570, 'timestamp': '2025-11-27T18:32:27.176954'}
+ambient-fan-service  | [UART] ➡️ P (910,570)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 914, 'y': 572, 'timestamp': '2025-11-27T18:32:27.447715'}
+ambient-fan-service  | [UART] ➡️ P (914,572)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 934, 'y': 572, 'timestamp': '2025-11-27T18:32:27.715739'}
+ambient-fan-service  | [UART] ➡️ P (934,572)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 932, 'y': 575, 'timestamp': '2025-11-27T18:32:28.101508'}
+ambient-fan-service  | [UART] ➡️ P (932,575)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 934, 'y': 574, 'timestamp': '2025-11-27T18:32:28.256458'}
+ambient-fan-service  | [UART] ➡️ P (934,574)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 937, 'y': 577, 'timestamp': '2025-11-27T18:32:28.636640'}
+ambient-fan-service  | [UART] ➡️ P (937,577)
+ambient-fan-service  | [UART] ⬅️ Time,Target,Current
+ambient-fan-service  | [UART] ⬅️ 893968,-432,-423
+ambient-fan-service  | [UART] ⬅️ 893978,-432,-423
+ambient-fan-service  | [UART] ⬅️ 893988,-432,-423
+ambient-fan-service  | [UART] ⬅️ 893998,-432,-423
+ambient-fan-service  | [UART] ⬅️ 894008,-432,-423
+ambient-fan-service  | [UART] ⬅️ 894018,-432,-423
+ambient-fan-service  | [UART] ⬅️ 894028,-432,-423
+ambient-fan-service  | [UART] ⬅️ 894038,-432,-423
+ambient-fan-service  | [UART] ⬅️ 894048,-432,-423
+ambient-fan-service  | [UART] ⬅️ 894058,-432,-423
+ambient-fan-service  | [UART] ⬅️ 894068,-432,-423
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 948, 'y': 587, 'timestamp': '2025-11-27T18:32:28.909353'}
+ambient-fan-service  | [UART] ⬅️ 894078,-427,-423
+ambient-fan-service  | [UART] ➡️ P (948,587)
+ambient-fan-service  | [UART] ⬅️ 894088,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894098,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894108,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894118,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894128,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894138,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894148,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894158,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894168,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894178,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894188,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894198,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894208,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894218,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894228,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894238,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894248,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894258,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894268,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894278,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894288,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894298,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894308,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894318,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894328,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894338,-427,-423
+ambient-fan-service  | [UART] ⬅️ 894348,-427,-423
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 955, 'y': 586, 'timestamp': '2025-11-27T18:32:29.184963'}
+ambient-fan-service  | [UART] ➡️ P (955,586)
+ambient-fan-service  | [UART] ⬅️ 894358,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894368,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894378,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894388,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894398,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894408,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894418,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894428,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894438,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894448,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894458,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894468,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894478,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894488,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894498,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894508,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894518,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894528,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894538,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894548,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894558,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894568,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894578,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894588,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894598,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894608,-425,-423
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 958, 'y': 576, 'timestamp': '2025-11-27T18:32:29.444727'}
+ambient-fan-service  | [UART] ⬅️ 894618,-423,-423
+ambient-fan-service  | [UART] ➡️ P (958,576)
+ambient-fan-service  | [UART] ⬅️ 894628,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894638,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894648,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894658,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894668,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894678,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894688,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894698,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894708,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894718,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894728,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894738,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894748,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894758,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894768,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894778,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894788,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894798,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894808,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894818,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894828,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894838,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894848,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894858,-423,-423
+ambient-fan-service  | [UART] ⬅️ 894868,-423,-423
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 954, 'y': 586, 'timestamp': '2025-11-27T18:32:29.708516'}
+ambient-fan-service  | [UART] ⬅️ 894878,-425,-423
+ambient-fan-service  | [UART] ➡️ P (954,586)
+ambient-fan-service  | [UART] ⬅️ 894888,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894898,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894908,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894918,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894928,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894938,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894948,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894958,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894968,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894978,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894988,-425,-423
+ambient-fan-service  | [UART] ⬅️ 894998,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895008,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895018,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895028,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895038,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895048,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895058,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895068,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895078,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895088,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895098,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895108,-425,-423
+ambient-fan-service  | [UART] ⬅️ 895118,-425,-423
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1137, 'y': 510, 'timestamp': '2025-11-27T18:32:29.956553'}
+ambient-fan-service  | [UART] ➡️ P (1137,510)
+ambient-fan-service  | [UART] ⬅️ 895128,-353,-420
+ambient-fan-service  | [UART] ⬅️ 895138,-353,-415
+ambient-fan-service  | [UART] ⬅️ 895148,-353,-411
+ambient-fan-service  | [UART] ⬅️ 895158,-353,-406
+ambient-fan-service  | [UART] ⬅️ 895168,-353,-401
+ambient-fan-service  | [UART] ⬅️ 895178,-353,-397
+ambient-fan-service  | [UART] ⬅️ 895188,-353,-392
+ambient-fan-service  | [UART] ⬅️ 895198,-353,-388
+ambient-fan-service  | [UART] ⬅️ 895208,-353,-383
+ambient-fan-service  | [UART] ⬅️ 895218,-353,-379
+ambient-fan-service  | [UART] ⬅️ 895228,-353,-375
+ambient-fan-service  | [UART] ⬅️ 895238,-353,-371
+ambient-fan-service  | [UART] ⬅️ 895248,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895258,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895268,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895278,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895288,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895298,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895308,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895318,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895328,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895338,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895348,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895358,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895368,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895378,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895388,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895398,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895408,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895418,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895428,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895438,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895448,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895458,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895468,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895478,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895488,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895498,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895508,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895518,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895528,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895538,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895548,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895558,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895568,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895578,-353,-368
+ambient-fan-service  | [UART] ⬅️ 895588,-353,-368
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1736, 'y': 481, 'timestamp': '2025-11-27T18:32:30.430580'}
+ambient-fan-service  | [UART] ⬅️ 895598,-58,-367
+ambient-fan-service  | [UART] ➡️ P (1736,481)
+ambient-fan-service  | [UART] ⬅️ 895608,-58,-349
+ambient-fan-service  | [UART] ⬅️ 895618,-58,-335
+ambient-fan-service  | [UART] ⬅️ 895628,-58,-321
+ambient-fan-service  | [UART] ⬅️ 895638,-58,-310
+ambient-fan-service  | [UART] ⬅️ 895648,-58,-299
+ambient-fan-service  | [UART] ⬅️ 895658,-58,-288
+ambient-fan-service  | [UART] ⬅️ 895668,-58,-279
+ambient-fan-service  | [UART] ⬅️ 895678,-58,-270
+ambient-fan-service  | [UART] ⬅️ 895688,-58,-261
+ambient-fan-service  | [UART] ⬅️ 895698,-58,-253
+ambient-fan-service  | [UART] ⬅️ 895708,-58,-245
+ambient-fan-service  | [UART] ⬅️ 895718,-58,-238
+ambient-fan-service  | [UART] ⬅️ 895728,-58,-230
+ambient-fan-service  | [UART] ⬅️ 895738,-58,-223
+ambient-fan-service  | [UART] ⬅️ 895748,-58,-216
+ambient-fan-service  | [UART] ⬅️ 895758,-58,-210
+ambient-fan-service  | [UART] ⬅️ 895768,-58,-203
+ambient-fan-service  | [UART] ⬅️ 895778,-58,-197
+ambient-fan-service  | [UART] ⬅️ 895788,-58,-191
+ambient-fan-service  | [UART] ⬅️ 895798,-58,-185
+ambient-fan-service  | [UART] ⬅️ 895808,-58,-179
+ambient-fan-service  | [UART] ⬅️ 895818,-58,-173
+ambient-fan-service  | [UART] ⬅️ 895828,-58,-168
+ambient-fan-service  | [UART] ⬅️ 895838,-58,-162
+ambient-fan-service  | [UART] ⬅️ 895848,-58,-157
+ambient-fan-service  | [UART] ⬅️ 895858,-58,-151
+ambient-fan-service  | [UART] ⬅️ 895868,-58,-146
+ambient-fan-service  | [UART] ⬅️ 895878,-58,-141
+ambient-fan-service  | [UART] ⬅️ 895888,-58,-136
+ambient-fan-service  | [UART] ⬅️ 895898,-58,-131
+ambient-fan-service  | [UART] ⬅️ 895908,-58,-126
+ambient-fan-service  | [UART] ⬅️ 895918,-58,-121
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:30.752290'}
+ambient-fan-service  | [UART] ⬅️ 895928,-58,-117
+ambient-fan-service  | [UART] ⬅️ 895938,-58,-112
+ambient-fan-service  | [UART] ⬅️ 895948,-58,-107
+ambient-fan-service  | [UART] ⬅️ 895958,-58,-103
+ambient-fan-service  | [UART] ⬅️ 895968,-58,-98
+ambient-fan-service  | [UART] ⬅️ 895978,-58,-94
+ambient-fan-service  | [UART] ⬅️ 895988,-58,-89
+ambient-fan-service  | [UART] ⬅️ 895998,-58,-85
+ambient-fan-service  | [UART] ⬅️ 896008,-58,-81
+ambient-fan-service  | [UART] ⬅️ 896018,-58,-77
+ambient-fan-service  | [UART] ⬅️ 896028,-58,-73
+ambient-fan-service  | [UART] ⬅️ 896038,-58,-73
+ambient-fan-service  | [UART] ⬅️ 896048,-58,-73
+ambient-fan-service  | [UART] ⬅️ 896058,-58,-73
+ambient-fan-service  | [UART] ⬅️ 896068,-58,-73
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1852, 'y': 504, 'timestamp': '2025-11-27T18:32:30.909827'}
+ambient-fan-service  | [UART] ⬅️ 896078,283,-68
+ambient-fan-service  | [UART] ➡️ P (1852,504)
+ambient-fan-service  | [UART] ⬅️ 896088,283,-41
+ambient-fan-service  | [UART] ⬅️ 896098,283,-20
+ambient-fan-service  | [UART] ⬅️ 896108,283,-3
+ambient-fan-service  | [UART] ⬅️ 896118,283,11
+ambient-fan-service  | [UART] ⬅️ 896128,283,24
+ambient-fan-service  | [UART] ⬅️ 896138,283,35
+ambient-fan-service  | [UART] ⬅️ 896148,283,46
+ambient-fan-service  | [UART] ⬅️ 896158,283,56
+ambient-fan-service  | [UART] ⬅️ 896168,283,65
+ambient-fan-service  | [UART] ⬅️ 896178,283,74
+ambient-fan-service  | [UART] ⬅️ 896188,283,82
+ambient-fan-service  | [UART] ⬅️ 896198,283,91
+ambient-fan-service  | [UART] ⬅️ 896208,283,98
+ambient-fan-service  | [UART] ⬅️ 896218,283,106
+ambient-fan-service  | [UART] ⬅️ 896228,283,113
+ambient-fan-service  | [UART] ⬅️ 896238,283,120
+ambient-fan-service  | [UART] ⬅️ 896248,283,127
+ambient-fan-service  | [UART] ⬅️ 896258,283,133
+ambient-fan-service  | [UART] ⬅️ 896268,283,140
+ambient-fan-service  | [UART] ⬅️ 896278,283,146
+ambient-fan-service  | [UART] ⬅️ 896288,283,152
+ambient-fan-service  | [UART] ⬅️ 896298,283,158
+ambient-fan-service  | [UART] ⬅️ 896308,283,164
+ambient-fan-service  | [UART] ⬅️ 896318,283,170
+ambient-fan-service  | [UART] ⬅️ 896328,283,175
+ambient-fan-service  | [UART] ⬅️ 896338,283,181
+ambient-fan-service  | [UART] ⬅️ 896348,283,186
+ambient-fan-service  | [UART] ⬅️ 896358,283,191
+ambient-fan-service  | [UART] ⬅️ 896368,283,197
+ambient-fan-service  | [UART] ⬅️ 896378,283,202
+ambient-fan-service  | [UART] ⬅️ 896388,283,207
+ambient-fan-service  | [UART] ⬅️ 896398,283,212
+ambient-fan-service  | [UART] ⬅️ 896408,283,216
+ambient-fan-service  | [UART] ⬅️ 896418,283,221
+ambient-fan-service  | [UART] ⬅️ 896428,283,226
+ambient-fan-service  | [UART] ⬅️ 896438,283,231
+ambient-fan-service  | [UART] ⬅️ 896448,283,235
+ambient-fan-service  | [UART] ⬅️ 896458,283,240
+ambient-fan-service  | [UART] ⬅️ 896468,283,244
+ambient-fan-service  | [UART] ⬅️ 896478,283,249
+ambient-fan-service  | [UART] ⬅️ 896488,283,253
+ambient-fan-service  | [UART] ⬅️ 896498,283,257
+ambient-fan-service  | [UART] ⬅️ 896508,283,262
+ambient-fan-service  | [UART] ⬅️ 896518,283,266
+ambient-fan-service  | [UART] ⬅️ 896528,283,268
+ambient-fan-service  | [UART] ⬅️ 896538,283,268
+ambient-fan-service  | [UART] ⬅️ 896548,283,268
+ambient-fan-service  | [UART] ⬅️ 896558,283,268
+ambient-fan-service  | [UART] ⬅️ 896568,283,268
+ambient-fan-service  | [UART] ⬅️ 896578,283,268
+ambient-fan-service  | [UART] ⬅️ 896588,283,268
+ambient-fan-service  | [UART] ⬅️ 896598,283,268
+ambient-fan-service  | [UART] ⬅️ 896608,283,268
+ambient-fan-service  | [UART] ⬅️ 896618,283,268
+ambient-fan-service  | [UART] ⬅️ 896628,283,268
+ambient-fan-service  | [UART] ⬅️ 896638,283,268
+ambient-fan-service  | [UART] ⬅️ 896648,283,268
+ambient-fan-service  | [UART] ⬅️ 896658,283,268
+ambient-fan-service  | [UART] ⬅️ 896668,283,268
+ambient-fan-service  | [UART] ⬅️ 896678,283,268
+ambient-fan-service  | [UART] ⬅️ 896688,283,268
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 766, 'y': 551, 'timestamp': '2025-11-27T18:32:31.524607'}
+ambient-fan-service  | [UART] ➡️ P (766,551)
+ambient-fan-service  | [UART] ⬅️ 896698,191,267
+ambient-fan-service  | [UART] ⬅️ 896708,191,262
+ambient-fan-service  | [UART] ⬅️ 896718,191,257
+ambient-fan-service  | [UART] ⬅️ 896728,191,252
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:31.524690'}
+ambient-fan-service  | [UART] ⬅️ 896738,191,248
+ambient-fan-service  | [UART] ⬅️ 896748,191,243
+ambient-fan-service  | [UART] ⬅️ 896758,191,238
+ambient-fan-service  | [UART] ⬅️ 896768,191,234
+ambient-fan-service  | [UART] ⬅️ 896778,191,229
+ambient-fan-service  | [UART] ⬅️ 896788,191,225
+ambient-fan-service  | [UART] ⬅️ 896798,191,221
+ambient-fan-service  | [UART] ⬅️ 896808,191,216
+ambient-fan-service  | [UART] ⬅️ 896818,191,212
+ambient-fan-service  | [UART] ⬅️ 896828,191,208
+ambient-fan-service  | [UART] ⬅️ 896838,191,206
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:31.679479'}
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:31.679861'}
+ambient-fan-service  | [UART] ⬅️ 896848,191,206
+ambient-fan-service  | [UART] ⬅️ 896858,191,206
+ambient-fan-service  | [UART] ⬅️ 896868,191,206
+ambient-fan-service  | [UART] ⬅️ 896878,191,206
+ambient-fan-service  | [UART] ⬅️ 896888,191,206
+ambient-fan-service  | [UART] ⬅️ 896898,191,206
+ambient-fan-service  | [UART] ⬅️ 896908,191,206
+ambient-fan-service  | [UART] ⬅️ 896918,191,206
+ambient-fan-service  | [UART] ⬅️ 896928,191,206
+ambient-fan-service  | [UART] ⬅️ 896938,191,206
+ambient-fan-service  | [UART] ⬅️ 896948,191,206
+ambient-fan-service  | [UART] ⬅️ 896958,191,206
+ambient-fan-service  | [UART] ⬅️ 896968,191,206
+ambient-fan-service  | [UART] ⬅️ 896978,191,206
+ambient-fan-service  | [UART] ⬅️ 896988,191,206
+ambient-fan-service  | [UART] ⬅️ 896998,191,206
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:31.835558'}
+ambient-fan-service  | [UART] ⬅️ 897008,191,206
+ambient-fan-service  | [UART] ⬅️ 897018,191,206
+ambient-fan-service  | [UART] ⬅️ 897028,191,206
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 326, 'y': 587, 'timestamp': '2025-11-27T18:32:31.865004'}
+ambient-fan-service  | [UART] ➡️ P (326,587)
+ambient-fan-service  | [UART] ⬅️ 897038,-47,199
+ambient-fan-service  | [UART] ⬅️ 897048,-47,188
+ambient-fan-service  | [UART] ⬅️ 897058,-47,178
+ambient-fan-service  | [UART] ⬅️ 897068,-47,169
+ambient-fan-service  | [UART] ⬅️ 897078,-47,160
+ambient-fan-service  | [UART] ⬅️ 897088,-47,152
+ambient-fan-service  | [UART] ⬅️ 897098,-47,144
+ambient-fan-service  | [UART] ⬅️ 897108,-47,136
+ambient-fan-service  | [UART] ⬅️ 897118,-47,129
+ambient-fan-service  | [UART] ⬅️ 897128,-47,122
+ambient-fan-service  | [UART] ⬅️ 897138,-47,115
+ambient-fan-service  | [UART] ⬅️ 897148,-47,108
+ambient-fan-service  | [UART] ⬅️ 897158,-47,101
+ambient-fan-service  | [UART] ⬅️ 897168,-47,95
+ambient-fan-service  | [UART] ⬅️ 897178,-47,89
+ambient-fan-service  | [UART] ⬅️ 897188,-47,83
+ambient-fan-service  | [UART] ⬅️ 897198,-47,77
+ambient-fan-service  | [UART] ⬅️ 897208,-47,71
+ambient-fan-service  | [UART] ⬅️ 897218,-47,65
+ambient-fan-service  | [UART] ⬅️ 897228,-47,60
+ambient-fan-service  | [UART] ⬅️ 897238,-47,54
+ambient-fan-service  | [UART] ⬅️ 897248,-47,49
+ambient-fan-service  | [UART] ⬅️ 897258,-47,44
+ambient-fan-service  | [UART] ⬅️ 897268,-47,38
+ambient-fan-service  | [UART] ⬅️ 897278,-47,33
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 611, 'y': 591, 'timestamp': '2025-11-27T18:32:32.122001'}
+ambient-fan-service  | [UART] ⬅️ 897288,-47,28
+ambient-fan-service  | [UART] ➡️ P (611,591)
+ambient-fan-service  | [UART] ⬅️ 897298,-111,22
+ambient-fan-service  | [UART] ⬅️ 897308,-111,16
+ambient-fan-service  | [UART] ⬅️ 897318,-111,10
+ambient-fan-service  | [UART] ⬅️ 897328,-111,4
+ambient-fan-service  | [UART] ⬅️ 897338,-111,-1
+ambient-fan-service  | [UART] ⬅️ 897348,-111,-7
+ambient-fan-service  | [UART] ⬅️ 897358,-111,-12
+ambient-fan-service  | [UART] ⬅️ 897368,-111,-17
+ambient-fan-service  | [UART] ⬅️ 897378,-111,-23
+ambient-fan-service  | [UART] ⬅️ 897388,-111,-28
+ambient-fan-service  | [UART] ⬅️ 897398,-111,-33
+ambient-fan-service  | [UART] ⬅️ 897408,-111,-38
+ambient-fan-service  | [UART] ⬅️ 897418,-111,-43
+ambient-fan-service  | [UART] ⬅️ 897428,-111,-47
+ambient-fan-service  | [UART] ⬅️ 897438,-111,-52
+ambient-fan-service  | [UART] ⬅️ 897448,-111,-57
+ambient-fan-service  | [UART] ⬅️ 897458,-111,-62
+ambient-fan-service  | [UART] ⬅️ 897468,-111,-66
+ambient-fan-service  | [UART] ⬅️ 897478,-111,-71
+ambient-fan-service  | [UART] ⬅️ 897488,-111,-75
+ambient-fan-service  | [UART] ⬅️ 897498,-111,-79
+ambient-fan-service  | [UART] ⬅️ 897508,-111,-84
+ambient-fan-service  | [UART] ⬅️ 897518,-111,-88
+ambient-fan-service  | [UART] ⬅️ 897528,-111,-92
+ambient-fan-service  | [UART] ⬅️ 897538,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897548,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897558,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897568,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897578,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897588,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897598,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897608,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897618,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897628,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897638,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897648,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897658,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897668,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897678,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897688,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897698,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897708,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897718,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897728,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897738,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897748,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897758,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897768,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897778,-111,-96
+ambient-fan-service  | [UART] ⬅️ 897788,-111,-96
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1104, 'y': 565, 'timestamp': '2025-11-27T18:32:32.622830'}
+ambient-fan-service  | [UART] ➡️ P (1104,565)
+ambient-fan-service  | [UART] ⬅️ 897798,-39,-93
+ambient-fan-service  | [UART] ⬅️ 897808,-39,-89
+ambient-fan-service  | [UART] ⬅️ 897818,-39,-84
+ambient-fan-service  | [UART] ⬅️ 897828,-39,-80
+ambient-fan-service  | [UART] ⬅️ 897838,-39,-75
+ambient-fan-service  | [UART] ⬅️ 897848,-39,-71
+ambient-fan-service  | [UART] ⬅️ 897858,-39,-66
+ambient-fan-service  | [UART] ⬅️ 897868,-39,-62
+ambient-fan-service  | [UART] ⬅️ 897878,-39,-58
+ambient-fan-service  | [UART] ⬅️ 897888,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897898,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897908,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897918,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897928,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897938,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897948,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897958,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897968,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897978,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897988,-39,-54
+ambient-fan-service  | [UART] ⬅️ 897998,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898008,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898018,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898028,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898038,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898048,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898058,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898068,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898078,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898088,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898098,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898108,-39,-54
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:32.947610'}
+ambient-fan-service  | [UART] ⬅️ 898118,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898128,-39,-54
+ambient-fan-service  | [UART] ⬅️ 898138,-39,-54
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1109, 'y': 564, 'timestamp': '2025-11-27T18:32:32.982248'}[UART] ⬅️ 898148,-39,-54
+ambient-fan-service  | 
+ambient-fan-service  | [UART] ➡️ P (1109,564)
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-lost: {'user_id': 'user_1764174836900', 'duration_seconds': 0, 'timestamp': '2025-11-27T18:32:32.982493'}
+ambient-fan-service  | [UART] ⬅️ 898158,5,-49
+ambient-fan-service  | [UART] ⬅️ 898168,5,-45
+ambient-fan-service  | [UART] ⬅️ 898178,5,-40
+ambient-fan-service  | [UART] ⬅️ 898188,5,-36
+ambient-fan-service  | [UART] ⬅️ 898198,5,-31
+ambient-fan-service  | [UART] ⬅️ 898208,5,-27
+ambient-fan-service  | [UART] ⬅️ 898218,5,-23
+ambient-fan-service  | [UART] ⬅️ 898228,5,-18
+ambient-fan-service  | [UART] ⬅️ 898238,5,-14
+ambient-fan-service  | [UART] ⬅️ 898248,5,-10
+ambient-fan-service  | [UART] ⬅️ 898258,5,-10
+ambient-fan-service  | [UART] ⬅️ 898268,5,-10
+ambient-fan-service  | [UART] ⬅️ 898278,5,-10
+ambient-fan-service  | [UART] ⬅️ 898288,5,-10
+ambient-fan-service  | [UART] ⬅️ 898298,5,-10
+ambient-fan-service  | [UART] ⬅️ 898308,5,-10
+ambient-fan-service  | [UART] ⬅️ 898318,5,-10
+ambient-fan-service  | [UART] ⬅️ 898328,5,-10
+ambient-fan-service  | [UART] ⬅️ 898338,5,-10
+ambient-fan-service  | [UART] ⬅️ 898348,5,-10
+ambient-fan-service  | [UART] ⬅️ 898358,5,-10
+ambient-fan-service  | [UART] ⬅️ 898368,5,-10
+ambient-fan-service  | [UART] ⬅️ 898378,5,-10
+ambient-fan-service  | [UART] ⬅️ 898388,5,-10
+ambient-fan-service  | [UART] ⬅️ 898398,5,-10
+ambient-fan-service  | [UART] ⬅️ 898408,5,-10
+ambient-fan-service  | [UART] ⬅️ 898418,5,-10
+ambient-fan-service  | [UART] ⬅️ 898428,5,-10
+ambient-fan-service  | [UART] ⬅️ 898438,5,-10
+ambient-fan-service  | [UART] ⬅️ 898448,5,-10
+ambient-fan-service  | [UART] ⬅️ 898458,5,-10
+ambient-fan-service  | [UART] ⬅️ 898468,5,-10
+ambient-fan-service  | [UART] ⬅️ 898478,5,-10
+ambient-fan-service  | [UART] ⬅️ 898488,5,-10
+ambient-fan-service  | [UART] ⬅️ 898498,5,-10
+ambient-fan-service  | [UART] ⬅️ 898508,5,-10
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1104, 'y': 559, 'timestamp': '2025-11-27T18:32:33.346727'}
+ambient-fan-service  | [UART] ➡️ P (1104,559)
+ambient-fan-service  | [UART] ⬅️ 898518,47,-8
+ambient-fan-service  | [UART] ⬅️ 898528,47,-3
+ambient-fan-service  | [UART] ⬅️ 898538,47,1
+ambient-fan-service  | [UART] ⬅️ 898548,47,6
+ambient-fan-service  | [UART] ⬅️ 898558,47,10
+ambient-fan-service  | [UART] ⬅️ 898568,47,15
+ambient-fan-service  | [UART] ⬅️ 898578,47,19
+ambient-fan-service  | [UART] ⬅️ 898588,47,23
+ambient-fan-service  | [UART] ⬅️ 898598,47,27
+ambient-fan-service  | [UART] ⬅️ 898608,47,32
+ambient-fan-service  | [UART] ⬅️ 898618,47,32
+ambient-fan-service  | [UART] ⬅️ 898628,47,32
+ambient-fan-service  | [UART] ⬅️ 898638,47,32
+ambient-fan-service  | [UART] ⬅️ 898648,47,32
+ambient-fan-service  | [UART] ⬅️ 898658,47,32
+ambient-fan-service  | [UART] ⬅️ 898668,47,32
+ambient-fan-service  | [UART] ⬅️ 898678,47,32
+ambient-fan-service  | [MQTT] 📥 ambient/ai/face-position: {'user_id': 'user_1764174836900', 'x': 1056, 'y': 557, 'timestamp': '2025-11-27T18:32:33.512599'}
+ambient-fan-service  | [UART] ➡️ P (1056,557)
+ambient-fan-service  | [UART] ⬅️ 898688,70,36
+ambient-fan-service  | [UART] ⬅️ 898698,70,41
+ambient-fan-service  | [UART] ⬅️ 898708,70,45
+ambient-fan-service  | [UART] ⬅️ 898718,70,49
+ambient-fan-service  | [UART] ⬅️ 898728,70,53
+ambient-fan-service  | [UART] ⬅️ 898738,70,55
+ambient-fan-service  | [UART] ⬅️ 898748,70,55
+ambient-fan-service  | [UART] ⬅️ 898758,70,55
+ambient-fan-service  | [UART] ⬅️ 898768,70,55
+ambient-fan-service  | [UART] ⬅️ 898778,70,55
+ambient-fan-service  | [UART] ⬅️ 898788,70,55
+ambient-fan-service  | [UART] ⬅️ 898798,70,55
+ambient-fan-service  | [UART] ⬅️ 898808,70,55
+ambient-fan-service  | [UART] ⬅️ 898818,70,55
+ambient-fan-service  | [UART] ⬅️ 898828,70,55
+ambient-fan-service  | [UART] ⬅️ 898838,70,55
+ambient-fan-service  | [UART] ⬅️ 898848,70,55
+ambient-fan-service  | [UART] ⬅️ 898858,70,55
+ambient-fan-service  | [UART] ⬅️ 898868,70,55
+ambient-fan-service  | [UART] ⬅️ 898878,70,55
+ambient-fan-service  | [UART] ⬅️ 898888,70,55
+ambient-fan-service  | [UART] ⬅️ 898898,70,55
+ambient-fan-service  | [UART] ⬅️ 898908,70,55
+ambient-fan-service  | [UART] ⬅️ 898918,70,55
+ambient-fan-service  | [UART] ⬅️ 898928,70,55
+ambient-fan-service  | [UART] ⬅️ 898938,70,55
+ambient-fan-service  | [UART] ⬅️ 898948,70,55
