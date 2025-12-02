@@ -5,6 +5,22 @@ Seeeduino XIAO RP2040을 사용해 BLDC모터 와 스텝모터 2개를 이용해
 
 한림대학교 25년도 2학기 SW캡스톤디자인
 
+## Demo & Hardware
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="media/pan-test1.gif" width="250"/> | <img src="media/pan-test2.gif" width="250"/> | <img src="media/tilt-test1.gif" width="250"/> |
+| pan 테스트1 | pan 테스트2 | tilt 테스트1 |
+| <img src="media/pan-tilt-test1.gif" width="250"/> | <img src="media/pan-tilt-test2.gif" width="250"/> | <img src="media/fan-test1.gif" width="250"/> |
+| pan-tilt 테스트1 | pan-tilt 테스트2 | fan 테스트1 |
+| <img src="media/fan-test2.gif" width="250"/> | <img src="media/fan-test3.gif" width="250"/> | <img src="media/fan-pan-tilt-test.gif" width="250"/> |
+| fan 테스트2 | fan 테스트3 | fan-pan-tilt 테스트 |
+| <img src="media/soldering-plan.jpg" width="250"/> | <img src="media/after-soldering.jpg" width="250"/> | <img src="media/internal-configuration.png" width="250"/> |
+| 솔더링 플랜 | 솔더링 후 | 내부 구성 |
+
+---
+
+
 ## 하드웨어 구성
 
 - MCU: seeduino XIAO RP2040
